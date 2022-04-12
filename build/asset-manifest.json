@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/auth0-demo/static/css/main.c3fb1bf5.chunk.css",
+    "main.js": "/auth0-demo/static/js/main.620281b6.chunk.js",
+    "main.js.map": "/auth0-demo/static/js/main.620281b6.chunk.js.map",
+    "runtime-main.js": "/auth0-demo/static/js/runtime-main.3e6813d5.js",
+    "runtime-main.js.map": "/auth0-demo/static/js/runtime-main.3e6813d5.js.map",
+    "static/js/2.055f3b3b.chunk.js": "/auth0-demo/static/js/2.055f3b3b.chunk.js",
+    "static/js/2.055f3b3b.chunk.js.map": "/auth0-demo/static/js/2.055f3b3b.chunk.js.map",
+    "index.html": "/auth0-demo/index.html",
+    "static/css/main.c3fb1bf5.chunk.css.map": "/auth0-demo/static/css/main.c3fb1bf5.chunk.css.map",
+    "static/js/2.055f3b3b.chunk.js.LICENSE.txt": "/auth0-demo/static/js/2.055f3b3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e6813d5.js",
+    "static/js/2.055f3b3b.chunk.js",
+    "static/css/main.c3fb1bf5.chunk.css",
+    "static/js/main.620281b6.chunk.js"
+  ]
+}
